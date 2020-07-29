@@ -1,0 +1,11 @@
+{
+  "name": "footerfixed",
+  "version": "1.0.1",
+  "description": "footerfixed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zgbbiao",
+  "license": "ISC"
+}
